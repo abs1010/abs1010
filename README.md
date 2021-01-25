@@ -6,7 +6,7 @@ My name is Alan and I am an iOS developer who lives in Brazil and is passionate 
 
 Here are some technologies I enjoy learning or working with: 
 - Swift/SwiftUI
-- Java Script
+- Javascript
 - React Native
 - API rest
 

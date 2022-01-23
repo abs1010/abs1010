@@ -1,8 +1,8 @@
-## Hello Visitor! 👋 
+## Hello there! 
 
-<img src="https://www.codemate.com/wp-content/uploads/2016/06/ios-dev-thumbnail.jpg" alt="banner that says Alan Silva - iOS software engineer, tech enthusiast and learner">
+<img src="https://www.neomind.com.br/wp-content/uploads/2021/12/Fusion-Developer-1.jpg" alt="banner that says Alan Silva - iOS software engineer, tech enthusiast and learner">
 
-My name is Alan and I am an iOS developer who lives in Brazil and is passionate about Apple related products but also likes to learn new technologies and build relations with other communities. 
+My name is Alan and I am an iOS developer who is passionate about Apple products but also likes to learn new technologies and build relations with other tech communities. 
 
 Here are some technologies I enjoy learning: 
 - Swift/SwiftUI

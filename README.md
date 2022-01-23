@@ -6,13 +6,13 @@ My name is Alan and I am an iOS developer who lives in Brazil and is passionate 
 
 Here are some technologies I enjoy learning: 
 - Swift/SwiftUI
-- JavaScript
+- Node.js
 - C#
 - API rest
 
 ### More about me: 
 - 🔭 I’m currently working as an iOS Developer at XP. Inc.
-- 🌱 I’m currently learning SwiftUI.
+- 🌱 I’m currently learning Node.js and some features of SwiftUI.
 - 💬 Ask me about Swift related projects.
 - ⚡ Fun fact: I like music and soccer.
 

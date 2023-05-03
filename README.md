@@ -14,5 +14,5 @@ Here are some technologies I enjoy learning:
 
 ### Reach me out on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-silvaios/)](https://www.linkedin.com/in/alan-silvaios/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvalan/)](https://www.linkedin.com/in/silvalan/)
 [![email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alan.bezerra10@gmail.com)](mailto:alan.bezerra10@gmail.com)

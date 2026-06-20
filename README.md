@@ -4,7 +4,7 @@
 
 My name is Alan and I am an iOS developer who is passionate about Apple products but also likes to learn new technologies and build relations with other tech communities. 
 
-- 🔭 I’m currently working as an iOS and Flutter Developer at XP. Inc.
+- 🔭 I’m currently working as an iOS and Flutter Developer at Avenue Code.
 
 Here are some technologies I enjoy learning: 
 - Swift
